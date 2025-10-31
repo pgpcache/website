@@ -24,11 +24,12 @@ To get started with creating a site, simply:
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 
-| Plan      | Price | Notes                 |
-|:----------|------:|:----------------------|
-| Starter   |  $0   | free forever          |
-| Pro       | $12   | Best for small teams  |
-| Business  | $29   | SSO, audit logs       |
+| Plan     | Price | Recoveries     |
+|:---------|------:|:--------------:|
+| Starter  |  $0   |   1 per year   |
+| Pro      | $12   |   5 per year   |
+| Business | $29   |   2 per year   |
+
 
 
 ----
