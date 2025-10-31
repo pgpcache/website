@@ -32,10 +32,11 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 # Frequently Asked Questions
 
-- [Getting started](#getting-started)
-- [Content & navigation](#content--navigation)
-- [Search & URLs](#search--urls)
-- [Troubleshooting](#troubleshooting)
+- [Encrypt Data](#encrypt-data)
+- [Submit Data](#submit--data)
+- [Recover Data](#recover--data)
+- [Pricing](#pricing)
+- [General FAQ's](#faqs)
 
 ## Getting started
 
