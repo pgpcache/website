@@ -49,16 +49,6 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ----
 
-| Plan      | Price | Users | Notes                 |
-|:----------|------:|:-----:|:----------------------|
-| Starter   |  $0   |   1   | Free forever          |
-| Pro       | $12   |   5   | Best for small teams  |
-| Business  | $29   |  25   | SSO, audit logs       |
-
-
-
-
-
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
