@@ -13,9 +13,9 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just":
-    - "//github.com/just-the-docs/just-the-docs"
+  "- Go to Signal App":
+    - "https://signal.org/"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
