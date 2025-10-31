@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pricing
-nav_order: 12          # change to control where sits in the sidebar
+nav_order: 13          # change to control where sits in the sidebar
 permalink: /pricing/       # optional nice URL
 # has_toc: true        # (default) shows "On this page" table of contents
 ---
