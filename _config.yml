@@ -13,8 +13,3 @@ search_enabled: false
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
