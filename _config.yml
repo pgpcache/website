@@ -7,10 +7,15 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-markdown: kramdown
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: false
 
-kramdown:
-  input: GFM          # GitHub-Flavored Markdown: tables, task lists, strikethrough, etc.
-  auto_ids: true
-  toc_levels: 1..6
-  syntax_highlighter: rouge
+# Aux links for the upper right navigation
+aux_links:
+  "Just":
+    - "//github.com/just-the-docs/just-the-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
