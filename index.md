@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Instructions
 layout: home
 ---
 
