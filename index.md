@@ -41,6 +41,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 # Frequently Asked Questions
 
 - [Encrypt Data](#encrypt-data)
+- [Public PGP key](#public--key)
 - [Submit Data](#submit--data)
 - [Recover Data](#recover--data)
 - [Pricing](#pricing)
